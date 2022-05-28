@@ -14,7 +14,7 @@ python3 Dcerpc_Find_OSInfo.py -i 192.168.1.1-192.168.2.2
 
 
 '''
-
+域控原本IP
 from base64 import b64encode
 from argparse import ArgumentParser, FileType
 from queue import Queue
@@ -176,7 +176,7 @@ def main():
             args.output.write("[*] " + ip + "\n")
             for k, v in osinfo_dict[ip].items():
                 args.output.write("\t[->] " + k + ":" + v + "\n")
-        print(osinfo_dict)
+        # print(osinfo_dict)
 
 
 if __name__ == '__main__':
