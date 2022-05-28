@@ -1,14 +1,12 @@
 # 通过dcerpc和ntlmssp获取Windows远程主机信息
 
-
+**欢迎star:star: O(∩_∩)O**
 
 ### 成果
 
-首先看一下成果，通过DCERPC附带NTLMSSP，可以获取目标的哪些信息
+首先看一下成果，通过DCERPC协议的ping附带NTLMSSP 可以获取到目标的版本号主机名，域名，DNS等信息。
 
 ![image-20220528115921937](images/image-20220528115921937.png)
-
-如上我们可以知道通过，通过DCERPC协议的ping附带NTLMSSP 可以获取到目标的版本号主机名，域名，DNS等信息。
 
 ### 初衷
 
