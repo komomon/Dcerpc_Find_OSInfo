@@ -50,8 +50,8 @@ RPC（Remote Procedure Call）远程过程调用协议，一种通过网络从�
 python3 Dcerpc_Find_OSInfo.py -i 192.168.31
 python3 Dcerpc_Find_OSInfo.py -i ip.txt
 python3 Dcerpc_Find_OSInfo.py -i 192.168.1.1-192.168.2.2
-python3 Dcerpc_Find_OSInfo.py -i 192.168.1.1-192.168.2.2 t 20 # 默认线程15，默认将结果输出到log.txt
-python3 Dcerpc_Find_OSInfo.py -i 192.168.1.1-192.168.2.2 t 20 -o result.txt
+python3 Dcerpc_Find_OSInfo.py -i 192.168.1.1-192.168.2.2 -t 20 # 默认线程15，默认将结果输出到log.txt
+python3 Dcerpc_Find_OSInfo.py -i 192.168.1.1-192.168.2.2 -t 20 -o result.txt
 ```
 
 
