@@ -66,7 +66,9 @@ python3 Dcerpc_Find_OSInfo.py -i 192.168.1.1-192.168.2.2 -t 20 -o result.txt
 
 ![公众号](images/公众号.jpg)
 
-![Z2O安全攻防交流群群聊qq二维码](images/Z2O安全攻防交流群群聊qq二维码.png)
+![Z2Oqq二维码4](images/Z2Oqq二维码4.jpg)
+
+![Z2O安全攻防交流群群聊qq二维码](images/Z2O安全攻防交流②群群聊二维码.png)
 
 
 
@@ -78,7 +80,7 @@ python3 Dcerpc_Find_OSInfo.py -i 192.168.1.1-192.168.2.2 -t 20 -o result.txt
 
 ![图片](images/640-16432009920047-16444876053866.webp)
 
-![微信图片_20220427110850](images/微信图片_20220427110850.jpg)
+![image-20230414002900996](images/image-20230414002900996.png)
 
 
 
